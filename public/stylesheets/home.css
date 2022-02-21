@@ -5,3 +5,11 @@ body{
     background-size: cover;
     background-position: center;
 }
+
+.nav-link{
+    border-bottom: 0.1rem solid transparent;
+}
+
+.nav-link:hover{
+    border-bottom-color: white;
+}
